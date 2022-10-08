@@ -1,5 +1,1 @@
-- 👋 Hi! My name is Allu and I am a Programmer.
-- 👀 Currently learning nodejs, js, Vuejs, reactjs, html & css, python and c++
-- 📖 About 50% done learning Nodejs/JavaScript
-- ⛏️ Plays Minecraft
-- 🎥 Youtuber (maybe)
+- I'm Allu, a beginner programmer i guess?
