@@ -1,1 +1,2 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlluPlayzz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+# I'm Allu.
+A **fullstack** developer from India
