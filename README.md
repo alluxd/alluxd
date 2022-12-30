@@ -1,1 +1,1 @@
-- I'm Allu, a beginner programmer i guess?
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlluPlayzz&theme=dark&hide_border=true)](https://git.io/streak-stats)
