@@ -1,7 +1,8 @@
+<img align='left' src='https://uxwing.com/wp-content/themes/uxwing/download/nature-and-environment/leaf-green-color-icon.svg' width='30%'/> 
+
 
 # 👋 Hey, I'm [Allu](https://youtube.com/@AlluXD).
-#### I'm an [intermediate](https://www.dictionary.com/browse/intermediate) bot developer from India.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&pause=1000&color=22C0F7&center=true&vCenter=true&width=435&lines=I'm+an+intermediate+bot+developer.)](https://git.io/typing-svg)
 
 
 
@@ -10,22 +11,21 @@
 **I'm a normal person who just codes ☕**
 
 # **How did I start coding?**
- *I used to have an old discord server for my yt channel(there is a new one rn) where I wanted to have own discord bot. I tried using BotGhost but later quit. Then i found out about [IGP](https://github.com/ImagineGamingPlay) and started watching his tutorials and I later started Bot dev using discord.js and later learned others like Python.*
+ ****I used to have an old discord server for my yt channel(there is a new one rn) where I wanted to have own discord bot. I tried using BotGhost but later quit. Then i found out about [IGP](https://github.com/ImagineGamingPlay) and started watching his tutorials and I later started Bot dev using discord.js and later learned others like Python.****
+
 
 
 # 📩 Socials:
 [Instagram](https://instagram.com/@axluxd_)  
 [Discord](https://discord.gg/ymEV264K)
+[YouTube](https://youtube.com/@alluxd)
 
 
 
 
 
 
-
-
-
-## 🧰 Languages and Tools I use:
+## 🖊️ Languages and Tools(didnt master everything yet):
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
@@ -33,8 +33,8 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/888aa7196bdda1de09e848148fc5929ccfe49ab6/topics/discord-js/discord-js.png" alt="Discord.js" height="40" style="vertical-align:top; margin:4px">
- 
- # GitHub Stats
+ <img src="https://raw.githubusercontent.com/github/explore/888aa7196bdda1de09e848148fc5929ccfe49ab6/topics/unity/unity.png" alt="Unity<" height="40" style="vertical-align:top; margin:4px">
+<img src="https://w7.pngwing.com/pngs/390/873/png-transparent-minecraft-mods-bedrock-bedrock-angle-monochrome-video-game-thumbnail.png" alt="Minecraft Bedrock API" height="40" style="vertical-align:top; margin:4px">
  
  [![Allu's's GitHub stats](https://github-readme-stats.vercel.app/api?username=alluplayzz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alluplayzz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
