@@ -15,7 +15,8 @@
 
 
 
-# 📩 Socials:
+<h1 align="center"> 📩 Socials </h1>
+
 [Instagram](https://instagram.com/@axluxd_)  
 
 [Discord](https://discord.gg/ymEV264K)
@@ -27,7 +28,8 @@
 
 
 
-## 🖊️ Languages and Tools(didnt master everything yet):
+<h1 align="center"> 🖊️ Languages and Tools (not mastered) </h1>
+
 <p align="center">
 <img title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img title="JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
@@ -38,13 +40,17 @@
  <img title="Unity" src="https://raw.githubusercontent.com/github/explore/888aa7196bdda1de09e848148fc5929ccfe49ab6/topics/unity/unity.png" alt="Unity<" height="40" style="vertical-align:top; margin:4px">
 <img title="Minecraft Bedrock Gametest API" src="https://w7.pngwing.com/pngs/390/873/png-transparent-minecraft-mods-bedrock-bedrock-angle-monochrome-video-game-thumbnail.png" alt="Minecraft Bedrock API" height="40" style="vertical-align:top; margin:4px">
  
+<h1 align="center"> Stats </h1>
+ 
+ 
+ 
  [![Allu's's GitHub stats](https://github-readme-stats.vercel.app/api?username=alluplayzz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alluplayzz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
  
  
  
- # Misc
+<h1 align="center"> Misc </h1>
  
 
 
