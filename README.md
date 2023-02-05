@@ -17,7 +17,9 @@
 
 # 📩 Socials:
 [Instagram](https://instagram.com/@axluxd_)  
+
 [Discord](https://discord.gg/ymEV264K)
+
 [YouTube](https://youtube.com/@alluxd)
 
 
