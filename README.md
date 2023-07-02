@@ -32,13 +32,13 @@
 
 <p align="center">
 <img title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img title="JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-<img title="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+<img title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
  <img title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
   <img title="Discord.js" src="https://raw.githubusercontent.com/github/explore/888aa7196bdda1de09e848148fc5929ccfe49ab6/topics/discord-js/discord-js.png" alt="Discord.js" height="40" style="vertical-align:top; margin:4px">
- <img title="Unity" src="https://raw.githubusercontent.com/github/explore/888aa7196bdda1de09e848148fc5929ccfe49ab6/topics/unity/unity.png" alt="Unity<" height="40" style="vertical-align:top; margin:4px">
-<img title="Minecraft Bedrock Gametest API" src="https://w7.pngwing.com/pngs/390/873/png-transparent-minecraft-mods-bedrock-bedrock-angle-monochrome-video-game-thumbnail.png" alt="Minecraft Bedrock API" height="40" style="vertical-align:top; margin:4px">
+  <img title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Discord.js" height="40" style="vertical-align:top; margin:4px">
+ <img title="CSS" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt="Discord.js" height="40" style="vertical-align:top; margin:4px">
  
 <h1 align="center"> Stats </h1>
  
