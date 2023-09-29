@@ -2,13 +2,14 @@
 
 
 # 👋 Hey, I'm [Allu](https://youtube.com/@AlluXD).
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&pause=1000&color=22C0F7&center=true&vCenter=true&width=435&lines=Just+an+average+programmer:D.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&pause=1000&color=22C0F7&center=true&vCenter=true&width=435&lines=Just+an+average+programmer+:D)](https://git.io/typing-svg)
 
-
+<br>
 
 # ❔ About Me
 
-**Just your average programmer :)**
+**Hey, I'm Allu. I love to make websites with HTML and CSS, make bots and other random stuff. <br>
+I also do play a lot of games and I also have a YouTube channel where I post tutorials and other shenanigans...**
 
 # **How did I start coding?**
  ****I used to have an old discord server for my YouTube channel where I wanted to have my own bot. I tried using BotGhost but later hated its paywalls. Then I found out about [IGP](https://github.com/ImagineGamingPlay) and started watching his tutorials and I started discord bot development using discord.js and later learned other languages like HTML, CSS and Python :D****
