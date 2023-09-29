@@ -1,4 +1,4 @@
-<img align='left' src='https://img.uxwing.com/wp-content/themes/uxwing/download/location-travel-map/planet-icon.svg' width='30%'/> 
+<img align='left' src='https://uxwing.com/wp-content/themes/uxwing/download/food-and-drinks/cheese-piece-icon.png' width='30%'/> 
 
 
 # 👋 Hey, I'm [Allu](https://youtube.com/@AlluXD).
