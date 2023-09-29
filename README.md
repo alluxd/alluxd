@@ -2,7 +2,7 @@
 
 
 # 👋 Hey, I'm [Allu](https://youtube.com/@AlluXD).
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&pause=1000&color=22C0F7&center=true&vCenter=true&width=435&lines=I'm+an+intermediate+bot+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&pause=1000&color=22C0F7&center=true&vCenter=true&width=435&lines=Just+an+average+programmer:D.)](https://git.io/typing-svg)
 
 
 
