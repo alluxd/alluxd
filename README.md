@@ -8,21 +8,20 @@
 
 # ❔ About Me
 
-**I'm a normal person who just codes ☕**
+**Just your average programmer :)**
 
 # **How did I start coding?**
- ****I used to have an old discord server for my yt channel(there is a new one rn) where I wanted to have own discord bot. I tried using BotGhost but later quit. Then i found out about [IGP](https://github.com/ImagineGamingPlay) and started watching his tutorials and I later started Bot dev using discord.js and later learned others like Python.****
+ ****I used to have an old discord server for my YouTube channel where I wanted to have my own bot. I tried using BotGhost but later hated its paywalls. Then I found out about [IGP](https://github.com/ImagineGamingPlay) and started watching his tutorials and I started discord bot development using discord.js and later learned other languages like HTML, CSS and Python :D****
 
 
 
 <h1 align="center"> 📩 Socials </h1>
 
-[Instagram](https://instagram.com/@axluxd_)  
-
-[Discord](https://discord.gg/ymEV264K)
+[Instagram](https://instagram.com/@axluxd)  
 
 [YouTube](https://youtube.com/@alluxd)
 
+[Twitter](https://twitter.com/alluplayzzyt)
 
 
 
