@@ -56,4 +56,4 @@ I also do play a lot of games and I also have a YouTube channel where I post tut
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313lsruvtahbpnrotgi3zupls3be&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
- <img title="Discord Profile" src="https://discord.c99.nl/widget/theme-3/1038072204916686879.png">
+ <img title="Discord Profile" src="https://discord.c99.nl/widget/theme-1/900390485183565904.png">
